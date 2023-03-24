@@ -8,7 +8,7 @@
     "api": "node api.js"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/JettLayer/integracion-continua.git"
   },
   "author": "",
