@@ -1,0 +1,8 @@
+import axios from "axios";
+
+const data = await axios.get(
+    "https://eldenring.fanapis.com/api/bosses"
+);
+datos = data.data;
+console.log(datos);
+return datos;
