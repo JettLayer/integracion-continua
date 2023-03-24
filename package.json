@@ -1,0 +1,19 @@
+{
+  "name": "integracion-continua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ci": "node ci.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JettLayer/integracion-continua.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JettLayer/integracion-continua/issues"
+  },
+  "homepage": "https://github.com/JettLayer/integracion-continua#readme"
+}
