@@ -4,5 +4,5 @@ const data = await axios.get(
     "https://eldenring.fanapis.com/api/bosses"
 );
 datos = data.data;
-console.log(datos);
+console.log(data);
 return datos;
